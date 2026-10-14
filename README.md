@@ -6,7 +6,7 @@ The first screen asks for a pickup and a dropoff, then shows a fare next to a ma
 
 **Live:** https://persona-frontend-six.vercel.app
 
-Fares come from a separate API. That repository is private.
+Fares come from [persona_backend](https://github.com/LifeAyush/persona_backend).
 
 **Repo:** https://github.com/LifeAyush/persona_frontend
 
